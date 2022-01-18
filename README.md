@@ -2,13 +2,7 @@
 
 - 🔭 Estudando para me tornar uma desenvolvedora
 - 💕 Apaixonada por aprender e ensinar
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 <div align="center">
   <a href="https://github.com/vanessa-maganhoto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessa-maganhoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +16,8 @@
   <img align="center" alt="Vanessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
+  
 </div>
   
 ##
